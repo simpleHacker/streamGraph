@@ -1,0 +1,2000 @@
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/199>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/385>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/187>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/167>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/386>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/234>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/305>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/428>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/241>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/yue-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/422>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-f-patel-schneider>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/317>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/436>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/318>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/51>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/218>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/259>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/83>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/413>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/419>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/247>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/84>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/421>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/288>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/401>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/153>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/146>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/261>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/410>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-z-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-heflin>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ian-horrocks>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/pascal-hitzler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-mika>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/lei-zhang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/haofen-wang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/lei-zhang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/axel-polleres>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/huajun-chen>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-rudolph>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/yue-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-f-patel-schneider>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/christian-bizer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/bijan-parsia>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/lin-clark>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/organization/rensselaer-polytechnic-institute>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research/pcmember>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://dbpedia.org/resource/United_States>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://xmlns.com/foaf/0.1/Person>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-dc-3>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-dc-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-dc-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-5>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-industry-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-industry-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-4>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-14>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-11>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-10>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-13>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-12>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-9>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-4>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-3>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-6>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-5>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-mika>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/bijan-parsia>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulrike-sattler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/hans-joerg-happel>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/shirin-sohrabi>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/soeren-auer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jens-lehmann>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/nuno-lopes>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/soeren-auer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulf-morgenstern>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/thomas-riechert>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-tramp>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/michael-martin>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/luciano-serafini>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/axel-polleres>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-z-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/mark-a-musen>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sean-falconer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/csongor-nyulas>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/natalya-noy>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/tania-tudorache>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/oscar-corcho>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/soeren-auer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-tramp>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://dbpedia.org/resource/People%27s_Republic_of_China>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/organization/ibm-china-research-laboratory>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://xmlns.com/foaf/0.1/Person>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://dbpedia.org/resource/United_States>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://xmlns.com/foaf/0.1/Person>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/rudi-studer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/thanh-tran>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jens-lehmann>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/samur-araujo>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jan-hidders>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/geert-jan-houben>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/daniel-schwabe>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/deborah-mcguinness>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/axel-polleres>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/nuno-lopes>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-rudolph>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/fabio-ciravegna>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/abraham-bernstein>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/pascal-hitzler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/alexandre-passant>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jerome-david>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jerome-euzenat>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/boris-motik>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jerome-euzenat>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/paul-groth>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/achille-fokoue>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/shenghui-wang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/paul-groth>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/mark-a-musen>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/steffen-staab>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/bijan-parsia>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/matthew-horridge>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulrike-sattler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/achille-fokoue>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/kavitha-srinivas>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/oscar-corcho>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-speiser>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/rudi-studer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/vladimir-kolovski>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/thanh-tran>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/shirin-sohrabi>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/yue-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-f-patel-schneider>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-heflin>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/markus-kroetzsch>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/boris-motik>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/giorgos-stoilos>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ian-horrocks>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/tobias-mathass>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/michael-schmidt>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulrich-walther>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-haase>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/andreas-eberhart>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/199>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/385>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/187>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/167>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/386>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/234>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/305>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/428>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/241>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/yue-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/422>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-f-patel-schneider>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/317>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/436>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/318>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/51>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/218>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/259>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/83>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/413>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/419>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/247>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/84>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/421>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/288>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/401>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/153>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/146>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/261>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/paper/410>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-z-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-heflin>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ian-horrocks>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/pascal-hitzler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-mika>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/lei-zhang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/haofen-wang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/lei-zhang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/axel-polleres>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/huajun-chen>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-rudolph>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/yue-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-f-patel-schneider>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/christian-bizer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/bijan-parsia>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/lin-clark>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Chair>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#Sponsorship>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#BreakEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/fairfax-dining-room>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#MealEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/third-floor>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T12-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-10T10-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/room-3b>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T14-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T15-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/auditorium>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T18-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#SessionEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research-track>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/place/yellow-river>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-09T16-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#TutorialEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-07T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T09-00-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/ns/swc/ontology#WorkshopEvent>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/time/2010-11-08T17-30-00>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/organization/rensselaer-polytechnic-institute>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/research/pcmember>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://dbpedia.org/resource/United_States>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/complete> ?p1 ?x .
+ ?x ?p2 <http://xmlns.com/foaf/0.1/Person>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-dc-3>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-dc-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-dc-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-5>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-industry-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-industry-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-in-use-4>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-1>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-14>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-2>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-11>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-10>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-13>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-12>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-9>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-4>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-3>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-6>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/conference/iswc/2010/session-research-5>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-mika>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/bijan-parsia>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulrike-sattler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/hans-joerg-happel>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/shirin-sohrabi>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/soeren-auer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jens-lehmann>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/nuno-lopes>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/soeren-auer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulf-morgenstern>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/thomas-riechert>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-tramp>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/michael-martin>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/luciano-serafini>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/axel-polleres>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-z-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/mark-a-musen>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sean-falconer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/csongor-nyulas>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/natalya-noy>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/tania-tudorache>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/oscar-corcho>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/soeren-auer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-tramp>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://dbpedia.org/resource/People%27s_Republic_of_China>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/organization/ibm-china-research-laboratory>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://xmlns.com/foaf/0.1/Person>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://dbpedia.org/resource/United_States>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://xmlns.com/foaf/0.1/Person>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/rudi-studer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/thanh-tran>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jens-lehmann>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/samur-araujo>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jan-hidders>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/geert-jan-houben>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/daniel-schwabe>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/deborah-mcguinness>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/axel-polleres>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/nuno-lopes>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-rudolph>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/fabio-ciravegna>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/abraham-bernstein>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/pascal-hitzler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/alexandre-passant>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jerome-david>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jerome-euzenat>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/boris-motik>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jerome-euzenat>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/paul-groth>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/achille-fokoue>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/shenghui-wang>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/paul-groth>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/mark-a-musen>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/steffen-staab>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/bijan-parsia>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/matthew-horridge>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulrike-sattler>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/achille-fokoue>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/kavitha-srinivas>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/oscar-corcho>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/sebastian-speiser>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/rudi-studer>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/vladimir-kolovski>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/thanh-tran>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/shirin-sohrabi>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/yue-pan>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-f-patel-schneider>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/jeff-heflin>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/markus-kroetzsch>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/boris-motik>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/birte-glimm>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/giorgos-stoilos>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ian-horrocks>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/tobias-mathass>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/michael-schmidt>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/ulrich-walther>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/peter-haase>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://data.semanticweb.org/person/andreas-eberhart>}
++SELECT ?p1 ?x ?p2 WHERE { <http://data.semanticweb.org/conference/iswc/2010/proceedings> ?p1 ?x .
+ ?x ?p2 <http://swrc.ontoware.org/ontology#InProceedings>}
