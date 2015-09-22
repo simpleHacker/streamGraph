@@ -1,7 +1,12 @@
-package SPar.allocation;
+package partitioning.graph.allocation;
 
-import SPar.utility.DBOperation;
+import partitioning.graph.utility.DBOperation;
 
+/**
+ * allocator instance producer
+ * @author ray
+ *
+ */
 public class AllocLoader {
 
 	public static ResAlloc loadAlloc(String alloc, String parfolder,String symbol,int parts,float par_triple_no, DBOperation mysql) throws Exception{

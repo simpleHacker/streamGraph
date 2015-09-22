@@ -1,4 +1,4 @@
-package SPar.allocation;
+package partitioning.graph.allocation;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -8,9 +8,9 @@ import java.util.Set;
 import org.semanticweb.yars.nx.Literal;
 import org.semanticweb.yars.nx.Node;
 
-import SPar.struct.Pair;
-import SPar.struct.Quad;
-import SPar.utility.DBOperation;
+import partitioning.graph.struct.Pair;
+import partitioning.graph.struct.Quad;
+import partitioning.graph.utility.DBOperation;
 
 /**
  * 
@@ -32,21 +32,13 @@ public class SmartResAlloc extends ResAlloc {
 				StringBuilder stmt;
 				ArrayList<String> par, spar;
 				int s_len, o_len;
-//				String partfile = "partition_"+assign.part;
-//				if(exist_partition.contains(partfile)) changed_partition.add(partfile);
 		/*
 		 * 1, After assign all triples to one partition, need to remove those allocated triples from str_buff
 		 * 2*, if want overlap, no need to remove 
 		 */
 				trilist = str_buffer.get(res);
 				int flag; // insert judge (0: this part; 1:other part)
-				Hashtable<Integer, Quad> items=null, parlist = null, merges;
-		/**************************test checker***************************
-					if(sed_ind.containsKey("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>")){
-						if(sed_ind.get("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>").containsKey(5))
-							System.out.println("smart pre record: "+ sed_ind.get("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>").get(5).toString());
-					}
-		/*************************************************************/		
+				Hashtable<Integer, Quad> items=null, parlist = null, merges;	
 				
 				if(index_flag != 0)
 					parlist = mysql.searchIndex(res);
@@ -65,7 +57,7 @@ public class SmartResAlloc extends ResAlloc {
 	//  check the history for current resource allocation, keep original or adjust to a new partition after par finished		
 				if(merges != null){
 					if(!merges.containsKey(assign.part)){ //update index in that part
-					// check for adjustment !!!!!!!
+					// check for adjustment
 						for(int i: merges.keySet()){
 							Quad tmp = merges.get(i);
 							twei = tmp.weight*(1-parts_stmt_info[i]/no_triples);
@@ -75,19 +67,13 @@ public class SmartResAlloc extends ResAlloc {
 							}
 						}
 						if(sig != -1){
-					/** check balance and calculate the weight!!!!!!!!!!!!!!!!!!	*/	
+					    // check balance and calculate the weight
 							twei = reswei;
 							if(wmax > twei && parts_stmt_info[sig] < threshold){ // constrained also by part size
 							// keep original
 								assign.part = sig; // assign res and triple to the largest
 								reswei = wmax; 
-							}/*else{
-							/** Not to do adjust !!!!!	
-							 * because adjustment cost is so high,
-							 * so here, even need adj, don't do it!
-							 
-							  adj_list.add(assign.part, assign.weight, all ajust part list);
-							}*/
+							}
 						}
 					}
 				}
@@ -214,10 +200,7 @@ public class SmartResAlloc extends ResAlloc {
 								//	updateRes(sub, 's',upweight, sig1, s_len, sed_ind, parts_stmt_info[sig1]);									
 									
 									flag = 1;
-								}/*else{
-								// it belongs to no partition, or same part, add it into this part
-									
-								}*/
+								}
 							}
 						}
 					} else{
@@ -242,9 +225,6 @@ public class SmartResAlloc extends ResAlloc {
 						// allocate the triple
 						par = tp.get(assign.part);
 						par.add(stmt.toString());
-						
-					//	if(parts_stmt_info[assign.part] > no_triples)
-					//		System.err.println("total number of triples: "+no_triples+" : "+parts_stmt_info[assign.part]+" : "+assign.type);
 							
 						parts_stmt_info[assign.part]++;
 						
@@ -292,17 +272,6 @@ public class SmartResAlloc extends ResAlloc {
 				int tjoin = newneis;
 				Hashtable<Integer, Quad> ttemp=null;
 				if((fts|fto) != 0 && tjoin > 0){ 
-					/***************************test******************************
-					if(res.equals("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>"))
-						if(ind_buffer.containsKey(res)){
-							if(ind_buffer.get(res).containsKey(5)){
-								System.out.println("weight is : "+tjoin+";bytes: "+s_sum+":"+o_sum);
-								System.out.println("--pre record: "+ ind_buffer.get(res).get(5).toString());
-							}		
-						}
-					//			System.out.println("pre record: "+ ind_buffer.get(res).get(5).toString());
-					//	System.out.println("weight is :"+weight+";partNo: "+no);
-					/*************************************************************/
 					if(ind_buffer.containsKey(res))
 						ttemp = ind_buffer.get(res);
 					else
@@ -328,30 +297,8 @@ public class SmartResAlloc extends ResAlloc {
 					ttemp.put(assign.part, detail);
 					ind_buffer.put(res, ttemp);
 					
-					/***************************test******************************
-					if(res.equals("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>"))
-						if(ind_buffer.containsKey(res)){
-						//	System.out.println("weight is :"+weight+";partNo: "+no);
-							if(ind_buffer.get(res).containsKey(5))
-								System.out.println("--after record: "+ ind_buffer.get(res).get(5).toString());
-						}
-					//			System.out.println("pre record: "+ ind_buffer.get(res).get(5).toString());
-					//	System.out.println("weight is :"+weight+";partNo: "+no);
-					/*************************************************************/
+			/***********************inspection checker*********************
 					
-			/***********************test checker*********************
-					
-					if(res.equals("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>"))
-						if(sed_ind.containsKey(res)){
-							if(sed_ind.get(res).containsKey(5)){
-								System.out.println("weight is : "+tjoin+";bytes: "+s_sum+":"+o_sum);
-								System.out.println("--pre record: "+ sed_ind.get(res).get(5).toString());
-							}		
-						}
-					//			System.out.println("pre record: "+ ind_buffer.get(res).get(5).toString());
-					//	System.out.println("weight is :"+weight+";partNo: "+no);
-					
-						
 					ttemp = null;
 					detail = null;
 					if(sed_ind.containsKey(res))
@@ -379,19 +326,7 @@ public class SmartResAlloc extends ResAlloc {
 					ttemp.put(assign.part, detail);
 					sed_ind.put(res, ttemp);
 					
-					
-					if(res.equals("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>"))
-						if(sed_ind.containsKey(res)){
-						//	System.out.println("weight is :"+weight+";partNo: "+no);
-							if(sed_ind.get(res).containsKey(5))
-								System.out.println("--after record: "+ sed_ind.get(res).get(5).toString());
-						}
-					//			System.out.println("pre record: "+ ind_buffer.get(res).get(5).toString());
-					//	System.out.println("weight is :"+weight+";partNo: "+no);
-					/*************************************************************/
-					
-			/**********************************************************/		
-					
+		     *************************************************************/
 				// update str_nei by remove allocated one -- operation safe for hashset		
 				//	str_nei.remove(res); no need, already done in updateNeis()
 				}
@@ -401,9 +336,8 @@ public class SmartResAlloc extends ResAlloc {
 			 *  also update the number of resource in the partition: parts_res_info.
 			 */
 				if(ind_buffer.size() >= INDEX_BUFFER_SIZE){
-//					writeoutInd(lucene.FILES_TO_INDEX_DIRECTORY);
 					mysql.createIndex(ind_buffer);
-					/*******************test checker*********************
+					/*******************inspection checker*********************
 					//			showInd(ind_buffer);
 								updateInd(ind_checker, ind_buffer);
 								checkConsistency(ind_checker,sed_ind);
@@ -412,11 +346,8 @@ public class SmartResAlloc extends ResAlloc {
 					
 					ind_buffer.clear();
 					return 1;
-//					changed_partition.clear();
 				}
 				return 0;
-			// update exist files after index updates	
-			//	exist_partition.add(partfile);
 		}
 
 public void updateNeis(Hashtable<String, Hashtable<String,Integer>> str_nei,String res, String nei){
@@ -441,7 +372,7 @@ public void updateNeis(Hashtable<String, Hashtable<String,Integer>> str_nei,Stri
 	public Hashtable<Integer, Quad> mergelist(Hashtable<Integer, Quad> buffer, Hashtable<Integer, Quad> db){
 		if(buffer == null) return db;
 		if(db == null) return buffer;
-		Set<Integer> l1 = buffer.keySet(); // 
+		Set<Integer> l1 = buffer.keySet();
 		Set<Integer> l2 = db.keySet();
 		HashSet<Integer> l = new HashSet<Integer>();
 		l.addAll(l1); l.addAll(l2);

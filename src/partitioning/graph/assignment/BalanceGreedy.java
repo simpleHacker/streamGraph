@@ -1,13 +1,16 @@
-package SPar.assignment;
+package partitioning.graph.assignment;
 
-import SPar.struct.Pair;
+import partitioning.graph.struct.Pair;
 
+/**
+ * balanced total random partitioning 
+ * less good than LRU. better than block one only  
+ * @author ray
+ *
+ */
 public class BalanceGreedy extends ParAlgo{
-	/**
-	 * balanced total random partitioning 
-	 * less good than LRU. better than block one only  
-	 */
-		public Pair<Integer,Integer> balanceP(int[] parts_stmt_info, float no_triples){
+
+	public Pair<Integer,Integer> balanceP(int[] parts_stmt_info, float no_triples){
 			int min = parts_stmt_info[0];
 			int index = -1;
 			for(int i=1;i<parts_stmt_info.length;++i){

@@ -1,4 +1,4 @@
-package SPar.allocation;
+package partitioning.graph.allocation;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -10,9 +10,9 @@ import java.util.Hashtable;
 
 import org.semanticweb.yars.nx.Node;
 
-import SPar.struct.Pair;
-import SPar.struct.Quad;
-import SPar.utility.DBOperation;
+import partitioning.graph.struct.Pair;
+import partitioning.graph.struct.Quad;
+import partitioning.graph.utility.DBOperation;
 
 public class ResAlloc {
 //	buffer size for trigger pending write for partitions	
@@ -27,11 +27,6 @@ public class ResAlloc {
 	DBOperation mysql;
 // structure storing the triple partition for buffered writing
 	public ArrayList<ArrayList<String>> tp;
-
-/************************test checker*******************************	
-	public Hashtable<String, Hashtable<Integer, Quad>> ind_checker;
-	public Hashtable<String, Hashtable<Integer, Quad>> sed_ind;
-/*******************************************************************/	
 	
 	public ResAlloc(String parfolder,String symbol,int parts, float tripleNo, DBOperation mysqlinst){
 		this.parfolder = parfolder;
@@ -65,14 +60,29 @@ public class ResAlloc {
 		threshold = percen * no_triples;
 	}
 	
-// interface to update index	
+/**
+ *  interface to update index	
+ * @param res
+ * @param assign
+ * @param str_buffer
+ * @param str_nei
+ * @param ind_buffer
+ * @param index_flag
+ * @param parts_stmt_info
+ * @return
+ */
 	public int updateIndex(String res, Pair<Integer, Integer> assign, Hashtable<String, HashSet<Node[]>> str_buffer,
 			Hashtable<String, Hashtable<String,Integer>> str_nei,Hashtable<String, Hashtable<Integer, Quad>> ind_buffer,
 			int index_flag, int[] parts_stmt_info){
 		return 0;
 	}
 	
-// write out statement to partition i
+/**
+ *  write out statement to partition i
+ * @param part
+ * @param stmts
+ * @param parfolder
+ */
 	public void writeoutTri(int part, ArrayList<String> stmts, String parfolder){		
 			String filepath =parfolder+symbol+"partition_"+part;
 			File file = new File(filepath);
@@ -99,19 +109,17 @@ public class ResAlloc {
 			}
 	}
 	
-// update Res information in ind_buffer in secure
+/**
+ * update Res information in ind_buffer in secure
+ * @param res
+ * @param type
+ * @param weight
+ * @param part
+ * @param bytes
+ * @param ind_buffer
+ * @param no
+ */
 	public void updateRes(String res, char type, int weight, int part,int bytes, Hashtable<String, Hashtable<Integer, Quad>> ind_buffer, int no){
-		/***************************test******************************
-		if(res.equals("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>"))
-			if(ind_buffer.containsKey(res)){
-				if(ind_buffer.get(res).containsKey(5)){
-					System.out.println("weight is :"+weight+";partNo: "+no);
-					System.out.println("pre record: "+ ind_buffer.get(res).get(5).toString());
-				}		
-			}
-		//			System.out.println("pre record: "+ ind_buffer.get(res).get(5).toString());
-		//	System.out.println("weight is :"+weight+";partNo: "+no);
-		/*************************************************************/
 		
 		Hashtable<Integer,Quad> temp = null;
 		Quad detail = null;
@@ -140,26 +148,14 @@ public class ResAlloc {
 		
 		temp.put(part, detail); // must not be null for detail
 		ind_buffer.put(res, temp);
-		/***************************test******************************
-		if(res.equals("<http://data.semanticweb.org/conference/iswc/2010/time/2010-11-11T15-30-00>"))
-			if(ind_buffer.containsKey(res)){
-			//	System.out.println("weight is :"+weight+";partNo: "+no);
-				if(ind_buffer.get(res).containsKey(5))
-					System.out.println("after record: "+ ind_buffer.get(res).get(5).toString());
-			}
-		//			System.out.println("pre record: "+ ind_buffer.get(res).get(5).toString());
-		//	System.out.println("weight is :"+weight+";partNo: "+no);
-		/*************************************************************/
 	}
 	
-	/*** test methods ****	
+	/************************inspection checker*******************************	
+	public Hashtable<String, Hashtable<Integer, Quad>> ind_checker;
+	public Hashtable<String, Hashtable<Integer, Quad>> sed_ind;
+
 	public void updateInd(Hashtable<String, Hashtable<Integer, Quad>> ind, Hashtable<String, Hashtable<Integer, Quad>> buffer){
 		Hashtable<Integer,Quad> inter, table;
-	******************test	***************************
-		if(ind.containsKey("<http://data.semanticweb.org/conference/iswc/2010>"))
-			if(ind.get("<http://data.semanticweb.org/conference/iswc/2010>").containsKey(11))
-				System.out.println("entry "+ind.get("<http://data.semanticweb.org/conference/iswc/2010>").get(11).toString());
-	*************************************************		
 		Quad tmp;
 		for(String key : buffer.keySet()){
 			inter = buffer.get(key);
@@ -183,11 +179,6 @@ public class ResAlloc {
 			}
 			ind.put(key, table);
 		}
-		******************test	***************************
-		if(ind.containsKey("<http://data.semanticweb.org/conference/iswc/2010>"))
-			if(ind.get("<http://data.semanticweb.org/conference/iswc/2010>").containsKey(11))
-				System.out.println("after entry "+ind.get("<http://data.semanticweb.org/conference/iswc/2010>").get(11).toString());
-	*************************************************
 	}
 	
 	public boolean checkConsistency(Hashtable<String, Hashtable<Integer, Quad>> ind, Hashtable<String, Hashtable<Integer, Quad>> ind2){//DBOperation mysql

@@ -1,9 +1,9 @@
-package SPar.assignment;
+package partitioning.graph.assignment;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import SPar.struct.Pair;
+import partitioning.graph.struct.Pair;
 
 /**
  * cache strategy to find the next balanced locality assigning part
@@ -99,7 +99,6 @@ public class LRUF extends ParAlgo{
 		}
 		
 		int parts_stmt_filled_flag= 0;
-		
 		public Pair<Integer,Integer> balanceP(int[] parts_stmt_info, float no_triples){
 			Pair<Integer,Integer> select = new Pair<Integer,Integer>();
 			

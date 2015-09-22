@@ -1,4 +1,4 @@
-package SPar.assignment;
+package partitioning.graph.assignment;
 
 import java.util.HashSet;
 import java.util.Hashtable;
@@ -6,7 +6,7 @@ import java.util.Set;
 
 import org.semanticweb.yars.nx.Node;
 
-import SPar.struct.Pair;
+import partitioning.graph.struct.Pair;
 
 /**
  * LRU based balancing strategy, also keep locality info for random balancing assignment
@@ -27,9 +27,9 @@ public class LRU extends ParAlgo{
 		relax_f = 0.30f;
 	}
 	
-/** 
- * LRU random assignment algorithm
- */	
+    /**
+     * LRU random assignment algorithm
+     */
 	public void Adjust(int newpart, int[] parts_stmt_info, float no_triples){
 //		 remove the full entry of triples from cache, not consider after for balanced plan
 		Set<Integer> set = new HashSet<Integer>();

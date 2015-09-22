@@ -1,4 +1,4 @@
-package SPar.assignment;
+package partitioning.graph.assignment;
 
 // simple factory methods, if in future, more complicated, can change to factory patterm
 public class ParLoader {

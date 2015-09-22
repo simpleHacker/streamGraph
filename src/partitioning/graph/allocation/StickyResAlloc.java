@@ -1,4 +1,4 @@
-package SPar.allocation;
+package partitioning.graph.allocation;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -8,9 +8,9 @@ import java.util.Set;
 import org.semanticweb.yars.nx.Literal;
 import org.semanticweb.yars.nx.Node;
 
-import SPar.struct.Pair;
-import SPar.struct.Quad;
-import SPar.utility.DBOperation;
+import partitioning.graph.struct.Pair;
+import partitioning.graph.struct.Quad;
+import partitioning.graph.utility.DBOperation;
 
 /**
  * this class allocate the stmt and resource to the assigned part by Palgorithm strictly
@@ -46,10 +46,6 @@ public class StickyResAlloc extends ResAlloc {
 					items = ind_buffer.get(res);
 
 				int newneis = 0; // No. of new neis added in the assigned part index
-	/* test	------------------------------------------	
-				if(trilist != null)
-					System.out.println(trilist.size());
-				else System.out.println("wrong"); */
 				
 			/**
 			 *  with doning this, the content of str_buffer will not be changed for triple removal operation.
@@ -57,9 +53,6 @@ public class StickyResAlloc extends ResAlloc {
 			 */			
 				Set<Node[]> tempset = new HashSet<Node[]>();
 				tempset.addAll(trilist);
-				
-				//Iterator<Node[]> niter = tempset.iterator();
-				// Node[] node;
 				
 				int s_sum = 0, o_sum = 0;
 				
@@ -75,7 +68,7 @@ public class StickyResAlloc extends ResAlloc {
 					stmt.append(sub).append(" ").append(pre).append(" ").append(obj).append(" .");
 					l = node[2];
 					s_len = pre.length()+obj.length();
-			/** 1, allocate the triple to the assigned part strictly & put resource in that part index*/
+			// 1, allocate the triple to the assigned part strictly & put resource in that part index
 					
 					par = tp.get(assign.part);
 					par.add(stmt.toString());
@@ -87,16 +80,8 @@ public class StickyResAlloc extends ResAlloc {
 						trip.remove(node); 
 						str_buffer.put(sub, trip);
 					}
-		/*/@test	--------------------------------------			
-					if(sub.equals("<http://data.semanticweb.org/person/jasmin-opitz>") || obj.equals("<http://data.semanticweb.org/person/jasmin-opitz>")){
-					//if(res.equals("<http://data.semanticweb.org/person/jasmin-opitz>"))	
-						System.out.println("1, "+assign.part+"-"+assign.type);
-						checkInd(res,ind_buffer);
-					}
-		// --------------------------------------*/			
+	
 					if(!(l instanceof Literal)){
-						
-						//@test-------------------------------			
 						
 						o_len = pre.length()+sub.length();
 						
@@ -154,16 +139,6 @@ public class StickyResAlloc extends ResAlloc {
 					fts |= ts;
 					fto |= to;
 					
-		/*/@test	--------------------------------------			
-					if(sub.equals("<http://data.semanticweb.org/person/jasmin-opitz>") || obj.equals("<http://data.semanticweb.org/person/jasmin-opitz>")){
-					//if(res.equals("<http://data.semanticweb.org/person/jasmin-opitz>"))	
-						System.out.printlnimport SPar.utility.DBOperation;
-import SPar.utility.HashFunction;
-("2, "+assign.part+"-"+assign.type);
-						checkInd(res,ind_buffer);
-					}
-		// -------------------------------------- */
-					
 				}// for
 				
 			/** allocate the res and update the index of it in assigned partition
@@ -191,7 +166,7 @@ import SPar.utility.HashFunction;
 				items.put(assign.part, detail);
 				ind_buffer.put(res, items);
 				
-	/************************************test checker*****************************
+	/************************************inspection checker*****************************
 				items = null;
 				detail = null;
 				if(sed_ind.containsKey(res))
@@ -216,15 +191,7 @@ import SPar.utility.HashFunction;
 				
 				items.put(assign.part, detail);
 				sed_ind.put(res, items);
-	/****************************************************************************/			
-				
-	/******************************test************************************		
-				if(res.equals("<http://data.semanticweb.org/person/jasmin-opitz>") ){
-				//if(res.equals("<http://data.semanticweb.org/person/jasmin-opitz>"))	
-					System.out.println("3, "+assign.part+"-"+assign.type);
-					checkInd("<http://data.semanticweb.org/person/jasmin-opitz>",ind_buffer);
-				}
-	/*******************************end***********************************/
+	/****************************************************************************/
 				
 			// update str_nei by remove allocated one		
 			//	str_nei.remove(res);
@@ -237,7 +204,7 @@ import SPar.utility.HashFunction;
 				if(ind_buffer.size() >= INDEX_BUFFER_SIZE){
 					mysql.createIndex(ind_buffer);
 					
-		/*******************test checker*********************
+		/*******************inspection checker*********************
 		//			showInd(ind_buffer);
 					updateInd(ind_checker, ind_buffer);
 					checkConsistency(ind_checker,sed_ind);

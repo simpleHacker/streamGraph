@@ -1,9 +1,9 @@
-package SPar.assignment;
+package partitioning.graph.assignment;
 
 import java.util.Hashtable;
 import java.util.Set;
 
-import SPar.struct.Pair;
+import partitioning.graph.struct.Pair;
 
 public abstract class ParAlgo {
 	Hashtable<Integer, Integer> cache;

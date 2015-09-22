@@ -1,4 +1,4 @@
-package SPar.struct;
+package partitioning.graph.struct;
 
 /**
  * Pair object templates for generic pair type usage

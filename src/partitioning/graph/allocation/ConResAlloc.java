@@ -1,4 +1,4 @@
-package SPar.allocation;
+package partitioning.graph.allocation;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -8,9 +8,9 @@ import java.util.Set;
 import org.semanticweb.yars.nx.Literal;
 import org.semanticweb.yars.nx.Node;
 
-import SPar.struct.Pair;
-import SPar.struct.Quad;
-import SPar.utility.DBOperation;
+import partitioning.graph.struct.Pair;
+import partitioning.graph.struct.Quad;
+import partitioning.graph.utility.DBOperation;
 
 /**
  * A Triple allocation algorithm, place RDF triples to a partition considering co-subject triple clustering.
@@ -26,7 +26,8 @@ import SPar.utility.DBOperation;
  * obj part, place it to the sub part, 
  * 6, for a full size part, never random assign any triple to it, just remove it from the can be allocated part 
  * 7, con-sub assignment size cannot over threshold
- * @author AI
+ * 
+ * @author ray
  *
  */
 
@@ -47,6 +48,11 @@ public class ConResAlloc extends ResAlloc{
 		shreshold = (int) (no_triples*3/4);
 		subpart = new Hashtable<String,Integer>(); //give an estimate size for initial optimization
 	}
+	
+	public void setThreshold(float value){
+		threshold = value;
+	}
+	
 /**
  * update index with new come res to a partition 
  * and allocate the triple with it into the partition.
@@ -56,9 +62,6 @@ public class ConResAlloc extends ResAlloc{
  * @param str_buffer, the stmt buffer for stream in stmt
  * @param str_nei, neighbor list for stream in resources
  * @param ind_buffer, buffered index so far	
-	public void setThreshold(float value){
-		threshold = value;
-	}
  * @param index_flag, flag to mark if on-disk index exist
  * @param parts_stmt_info, stmt number info of each part
  */	
@@ -71,11 +74,10 @@ public class ConResAlloc extends ResAlloc{
 		StringBuilder stmt;
 		ArrayList<String> par =null;
 		
-	/**
+	/*
 	 * string buffer updates during triple placement
 	 * 1, After assign all triples to one partition, need to remove those allocated triples from str_buff
 	 * 2*, if want overlap, no need to remove 
-	 * 
 	 */
 		trilist = str_buffer.get(res);		
 		
@@ -96,11 +98,12 @@ public class ConResAlloc extends ResAlloc{
 			l = node[2];
 			s_len = pre.length()+obj.length();
 			
-		// allocate the triple to the right part & put resource in part's index 
-
-			/** check the sub part exist first, then obj part
-			 for sub assignment, maybe against assigned algorithm
-			 but for obj assignment, should follow the assigned algorithm */
+		/* 	allocate the triple to the right part & put resource in part's index
+		 * 
+		 *	check the sub part exist first, then obj part
+		 *	for sub assignment, maybe against assigned algorithm
+		 *	but for obj assignment, should follow the assigned algorithm 
+		 */
 			int unit = -1;
 			if(subpart.containsKey(sub)){
 				unit = subpart.get(sub);
@@ -114,10 +117,8 @@ public class ConResAlloc extends ResAlloc{
 					unit = checksubpart('s', reslist2);
 				}
 						
-			//	Hashtable<Integer, Quad> mergelist = mergelist(reslist1, reslist2);
-						
-			// check the index, if sub already exist as sub, place stmt in that part, 
-			/**
+			/* check the index, if sub already exist as sub, place stmt in that part, 
+			 *
 			 * when res as obj of this stmt, but sub res never exsited (two options):
 			 *  1, if the obj res already exsited as sub res in some part, place it in 
 			 * 	2, choose the most frequent obj res part one to place the triple
@@ -126,16 +127,12 @@ public class ConResAlloc extends ResAlloc{
 			 * as obj part of stmt; another place it into most frequent res part for this obj of stmt
 			 * -- no need to optimize here, no big advantage for that cost.
 			 */
-				
 				subpart.put(sub, unit);
 			}	
 				
 			int upweight;
 			int parnum = -1;
 			if(!(l instanceof Literal)){
-					
-		/*		if(index_flag != 0)
-					items2 = mysql.searchIndex(obj);  */
 					
 				o_len = pre.length()+sub.length();
 				if(unit != -1){
@@ -164,7 +161,7 @@ public class ConResAlloc extends ResAlloc{
 						str_buffer.put(obj, trip);
 					}
 
-				// allocate obj res
+				// allocate object resesource
 				//	upweight = 1-parts_stmt_info[unit]/no_triples;
 					upweight = 1; // one edge updates for two resource index
 					updateRes(obj, 'o', upweight, unit, o_len, ind_buffer, parts_stmt_info[unit]);
@@ -173,41 +170,39 @@ public class ConResAlloc extends ResAlloc{
 					updateRes(sub, 's', upweight, unit, s_len, ind_buffer, parts_stmt_info[unit]);
 
 				} else { // sub not exist in hitorical index || part size >= threshold
-				/** sub of the stmt not exsit as sub res in the index, assign to assigned part following Palgorithm*/
+				/* sub of the stmt not exsit as sub res in the index, assign to assigned part following Palgorithm*/
 					
-		/**
+		/*
 		 * here need to pay attention, the assign algorithm
 		 * should take account of the size balance things, like not access the 3/4 of 
 		 * full size !!!			
 		 */
 					
-//<==================assignment algorithm working part====================>						
-		// res == sub not exist in index, use assignment from assign algorithm; check obj
-		// assign algorithm chose the most neis one, or but choose most frequent obj part
-		// if assign.weight > 0 , should put in most neis part, else sub & obj are all
-		// not in index, no need to check mergelist again.	
-		// -- no need to optimize here, not worth for this little optimization			
-		/*
+	    /*==================assignment algorithm working part====================					
+		 * res == sub not exist in index, use assignment from assign algorithm; check obj
+		 * assign algorithm chose the most neis one, or but choose most frequent obj part
+		 * if assign.weight > 0 , should put in most neis part, else sub & obj are all
+		 * not in index, no need to check mergelist again.	
+		 * -- no need to optimize here, not worth for this little optimization			
+		 *
 		 * assignment choice assign.weight choice
 		 * if neis distributed on several part and distribution is even, 
 		 * the neis of a part has more weight will be chosen out;
 		 * else if all equal, only chose the least size of part one 
 		 * 	as assignment
 		 */	
-// ------------------------------------------------------------------					
-				// allocate the triple 
+			// allocate the triple 
 					par = tp.get(assign.part);
-					par.add(stmt.toString());
-					
+					par.add(stmt.toString());		
 					finalp = assign.part;
-				// update the record of stmt info in partition	
+			// update the record of stmt info in partition	
 					parts_stmt_info[assign.part]++;
 					HashSet<Node[]> trip = str_buffer.get(sub);
 					if(trip != null){
 						trip.remove(node); 
 						str_buffer.put(sub, trip);
 					}
-						
+					
 					trip = str_buffer.get(obj);
 					if(trip != null){
 						trip.remove(node); 
@@ -224,51 +219,14 @@ public class ConResAlloc extends ResAlloc{
 					
 				// allocate obj res second
 					updateRes(obj, 'o', upweight, assign.part, o_len, ind_buffer, parts_stmt_info[assign.part]);
-					
 				}
-					
-				/*/ update str_nei by remove allocated one
-				int count;
-				if(!obj.equals(sub)){
-					Hashtable<String,Integer> neis = str_nei.get(obj);
-					if(neis != null)
-						if(neis.keySet().size() != 0){
-							count = neis.get(sub);
-							if(count == 1)
-								neis.remove(sub);
-							else{
-								count--;
-								neis.put(sub, count);
-							}
-							if(neis.keySet().size() != 0)
-								str_nei.put(obj, neis);
-							else
-								str_nei.remove(obj);
-						}
-				
-					neis = str_nei.get(sub);
-					if(neis != null)
-						if(neis.keySet().size() != 0){
-							count = neis.get(obj);
-							if(count == 1)	
-								neis.remove(obj);
-							else{
-								count--;
-								neis.put(obj, count);
-							}
-							if(neis.keySet().size() != 0)
-								str_nei.put(sub, neis);
-							else
-								str_nei.remove(sub);
-						}
-				}*/
 			} else{ // obj as string case
-				/** allocate the triple
-				 * and allocate the sub res to the part
-				 * also update the weight of res in that part
-				 * only no needs to update the s_bytes and o_bytes info here,
-				 * because those info is only for chain 2 query use for all resource stmts
-				 */
+			/* allocate the triple
+			 * and allocate the sub res to the part
+			 * also update the weight of res in that part
+			 * only no needs to update the s_bytes and o_bytes info here,
+			 * because those info is only for chain 2 query use for all resource stmts
+			 */
 				int part;
 				
 				if(unit != -1){
@@ -307,7 +265,6 @@ public class ConResAlloc extends ResAlloc{
 			if(par != null)
 				if(par.size() > sizelimit){
 					writeoutTri(finalp,par,parfolder);
-		//			par.clear();
 				}
 		}// for
 		
@@ -319,7 +276,6 @@ public class ConResAlloc extends ResAlloc{
 		}
 		return 0;
 	}
-	
 	
 	
 /**

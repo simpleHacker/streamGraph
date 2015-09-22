@@ -1,4 +1,4 @@
-package SPar;
+package partitioning.graph.allocation;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -8,8 +8,8 @@ import java.util.Set;
 import org.semanticweb.yars.nx.Literal;
 import org.semanticweb.yars.nx.Node;
 
-import SPar.struct.Pair;
-import SPar.struct.Quad;
+import partitioning.graph.struct.Pair;
+import partitioning.graph.struct.Quad;
 
 /*
  * p(i) should be the number of statements in that partition; C should be (Total number of statement)/(number of partitions)
@@ -32,9 +32,6 @@ public class TrendyResAlloc extends ResAlloc {
 				Pair<Integer,String> pp;
 				ArrayList<String> par =null, spar = null;
 				Hashtable<Integer,Quad> parlist;
-				
-//				String partfile = "partition_"+assign.part;
-//				if(exist_partition.contains(partfile)) changed_partition.add(partfile);
 		/*
 		 * 1, After assign all triples to one partition, need to remove those allocated triples from str_buff
 		 * 2*, if want overlap, no need to remove 
@@ -84,7 +81,6 @@ public class TrendyResAlloc extends ResAlloc {
 						}else{	
 							if(res.equals(sub)) {
 								ts = "s";
-				//				str_buffer.get(obj).remove(node);//???????????????
 								HashSet<Node[]> trip = str_buffer.get(obj);
 								if(trip != null){
 									trip.remove(node); 
@@ -97,8 +93,7 @@ public class TrendyResAlloc extends ResAlloc {
 						/* (check index)
 						 *   if the sub part is not in index, triples to this part; 
 						 *   else if sub part in different part, assign this triple to the sub part
-						 */		
-						//		str_buffer.get(obj).remove(node);// ?????is this okay --!!!No --- optimization
+						 */	
 								HashSet<Node[]> trip = str_buffer.get(obj);
 								Quad slot;
 								if(trip != null){
@@ -164,7 +159,7 @@ public class TrendyResAlloc extends ResAlloc {
 											detail = items.get(sig1);
 											if(detail.type.indexOf('o') == -1)
 												detail.type = "so";
-											detail.weight += 1-parts_stmt_info[sig1]/no_triples;//??????????????? already repeat!!!! yes should have
+											detail.weight += 1-parts_stmt_info[sig1]/no_triples;
 										}else{
 											detail = new Quad();
 											detail.type = "o";
@@ -183,7 +178,7 @@ public class TrendyResAlloc extends ResAlloc {
 									items.put(sig1, detail);
 									ind_buffer.put(res, items);
 								
-							//also need to update the sub index in sig1 part!!!!!!!!!!!???????????
+							//update the sub index in sig1 part
 								
 									slot = plist.get(sig1);
 									if(slot.type.indexOf('s') == -1){
@@ -276,8 +271,6 @@ public class TrendyResAlloc extends ResAlloc {
 								ind_buffer.put(obj, temp);
 							}
 						}else{
-						// if the same part as sub, also need to handle????????????????????????
-						// !!!!!!!! may be not in same part but still in this case
 							o_sum_len += o_len;								
 							
 							if(sig1 != -1 && wmax == -1){ // also make it different from any case include initial case
@@ -362,12 +355,8 @@ public class TrendyResAlloc extends ResAlloc {
 			 *  also update the number of resource in the partition: parts_res_info.
 			 */
 				if(ind_buffer.size() >= INDEX_BUFFER_SIZE){
-//					writeoutInd(lucene.FILES_TO_INDEX_DIRECTORY);
 					mysql.createIndex(ind_buffer);
 					ind_buffer.clear();
-//					changed_partition.clear();
 				}
-			// update exist files after index updates	
-			//	exist_partition.add(partfile);
 			}
 }

@@ -1,4 +1,4 @@
-package SPar.struct;
+package partitioning.graph.struct;
 
 import java.util.HashSet;
 
